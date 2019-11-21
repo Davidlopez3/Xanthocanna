@@ -4,6 +4,16 @@ h1{
 .rounded {
 	border-radius: 60rem
 }
+h1{
+	font-family:Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"
+	h1{
+     word-wrap: break-word;
+     -webkit-hyphens: auto;
+     -moz-hyphens: auto;
+     -ms-hyphens: auto;
+     -o-hyphens: auto;
+     hyphens: auto;
+}	
 
 .fa {
   padding: 20px;
